@@ -1,0 +1,101 @@
+id _Pago;Metodo_pago;Tipo_precio
+1;MercadoPago;Pack Flia 6x4
+2;MercadoPago;Pack Flia 5x4
+3;VISA;REG
+4;VISA;REG
+5;VISA;REG
+6;MercadoPago;REG
+7;MPMastercard;MasterCard 30%
+8;MercadoPago;REG
+9;MercadoPago;REG
+10;MercadoPago;REG
+11;MercadoPago;REG
+12;MercadoPago;REG
+13;MercadoPago;REG
+14;MercadoPago;REG
+15;MercadoPago;REG
+16;MercadoPago;REG
+17;MercadoPago;REG
+18;MercadoPago;REG
+19;MercadoPago;REG
+20;MercadoPago;REG
+21;MercadoPago;Pack Flia 3x2
+22;MercadoPago;REG
+23;MPMastercard;MasterCard 30%
+24;MPMastercard;MasterCard 30%
+25;MercadoPago;REG
+26;MercadoPago;Pack Flia 6x4
+27;MPMastercard;MasterCard 30%
+28;MPMastercard;MasterCard 30%
+29;MPMastercard;MasterCard 30%
+30;VISA;REG
+31;MercadoPago;REG
+32;MercadoPago;REG
+33;MercadoPago;REG
+34;MercadoPago;REG
+35;MercadoPago;Pack Flia 4x3
+36;MercadoPago;REG
+37;MercadoPago;Pack Flia 6x4
+38;MercadoPago;Edenor 20%
+39;MercadoPago;REG
+40;MercadoPago;REG
+41;Nativa-MC;REG
+42;MercadoPago;REG
+43;MPMastercard;MasterCard 30%
+44;VISA;REG
+45;VISA;REG
+46;VISA;Pack Flia 5x4
+47;MPMastercard;MasterCard 30%
+48;MercadoPago;REG
+49;MercadoPago;REG
+50;MercadoPago;REG
+51;MercadoPago;REG
+52;MercadoPago;REG
+53;MercadoPago;REG
+54;MercadoPago;REG
+55;MercadoPago;REG
+56;MercadoPago;Pro Navidad 20%
+57;MPMastercard;MasterCard 30%
+58;MercadoPago;REG
+59;MPMastercard;MasterCard 30%
+60;MPMastercard;MasterCard 30%
+61;MPMastercard;MasterCard 30%
+62;MercadoPago;REG
+63;MercadoPago;Pack Flia 4x3
+64;MercadoPago;REG
+65;MercadoPago;Pro Navidad 40%
+66;MercadoPago;Pro Navidad 40%
+67;MPMastercard;MasterCard 30%
+68;MercadoPago;Pack Flia 3x2
+69;VISA;REG
+70;MPMastercard;MasterCard 30%
+71;MercadoPago;REG
+72;MercadoPago;Pack Flia 4x3
+73;MPMastercard;MasterCard 30%
+74;MercadoPago;REG
+75;MercadoPago;REG
+76;MercadoPago;Pack Flia 4x3
+77;MercadoPago;Pack Flia 5x4
+78;MPMastercard;MasterCard 30%
+79;MercadoPago;REG
+80;MPMastercard;MasterCard 30%
+81;MercadoPago;Pack Flia 6x4
+82;MercadoPago;REG
+83;MercadoPago;REG
+84;MercadoPago;REG
+85;MercadoPago;Pack Flia 3x2
+86;MercadoPago;REG
+87;MercadoPago;REG
+88;MercadoPago;REG
+89;MercadoPago;REG
+90;MercadoPago;Pack Flia 6x4
+91;MPMastercard;MasterCard 30%
+92;MPMastercard;MasterCard 30%
+93;MercadoPago;REG
+94;MercadoPago;REG
+95;MercadoPago;REG
+96;MercadoPago;REG
+97;VISA;Pack Flia 4x3
+98;VISA;Pack Flia 6x4
+99;MercadoPago;Pack Flia 3x2
+100;MPMastercard;MasterCard 30%
